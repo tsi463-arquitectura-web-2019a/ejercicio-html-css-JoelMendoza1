@@ -1,0 +1,51 @@
+﻿.menu{
+	background-color: #ff8700;
+	color:#eeeeee;
+	display: -webkit-box;
+}
+body{
+	background-color: #555555;
+
+}
+.titulo{
+	color: #ffffff;
+	margin-left: 20%;
+}
+.subtitulo{
+	color:#cccccc;
+	margin-left: 20%;
+}
+.texto{
+	color:#333333;
+	margin-left: 10px;
+}
+main{
+	background-color: white;
+	width: 60%;
+	margin: auto;
+	padding-bottom:60%;
+}	
+a{
+	color: #ff8700;
+}
+.tit{
+	font-size:30px;
+	margin-left: 10px;
+}
+img{
+	margin-left: 10px;
+}
+.ps{
+	float: right;
+	color: #ff8700;
+	width: 40%;
+	background-color: #ffffff;
+	border-left-color:black; 
+
+}
+.ps1{
+	float: left;
+	width: 55%;
+	background-color: #ffffff;
+
+}
